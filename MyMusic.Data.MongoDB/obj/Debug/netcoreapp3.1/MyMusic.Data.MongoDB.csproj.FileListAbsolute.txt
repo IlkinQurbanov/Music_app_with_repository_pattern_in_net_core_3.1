@@ -1,0 +1,9 @@
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.deps.json
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\bin\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.dll
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Data.MongoDB\obj\Debug\netcoreapp3.1\MyMusic.Data.MongoDB.pdb

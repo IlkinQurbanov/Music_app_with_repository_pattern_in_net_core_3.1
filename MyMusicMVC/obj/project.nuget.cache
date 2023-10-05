@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrzImN4qCfheJZU+Z3ESLkhe6bOKsm2vjP2fzW7W3iK+S7wJ+Ugt46S87ZgD3RRMAnFw1a6o87P+Keh83WD0Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilkin\\source\\repos\\SolutionMyMusic\\MyMusicMVC\\MyMusicMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilkin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

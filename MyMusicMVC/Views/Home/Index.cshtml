@@ -1,0 +1,17 @@
+﻿@model ListMusicViewModel
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Name of Music</th>
+            <th>Artists</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var music in Model.ListMusic)
+        {
+            <td class="text-center">@music.Name</td>
+            <td class="text-left">@music.Artist.Name</td>
+        }
+    </tbody>
+</table>

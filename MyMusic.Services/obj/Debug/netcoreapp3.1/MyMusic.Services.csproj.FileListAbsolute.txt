@@ -1,0 +1,13 @@
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Services.deps.json
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Services.dll
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Services.pdb
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.dll
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.pdb
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Core.dll
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\bin\Debug\netcoreapp3.1\MyMusic.Core.pdb
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\SolutionMyMusic\MyMusic.Services\obj\Debug\netcoreapp3.1\MyMusic.Services.csproj.CopyComplete

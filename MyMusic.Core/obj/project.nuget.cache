@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4f76u4gEg0gPLBk0d0SQzDxv5I1RoEUbdx5JB+oNJbelVYFBFKqOLgV9SA9zQ8axCo0QlVGkuUmsAueE/QxYXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilkin\\source\\repos\\SolutionMyMusic\\MyMusic.Core\\MyMusic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilkin\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
+    "C:\\Users\\ilkin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ilkin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
